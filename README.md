@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hai! 👋 Nama saya Tio Hady Pranoto, seorang FullStack Developer dari Bontang, Indonesia.</h2>
+<h2 align="left">Hola! 👋.</h2>
 
 ###
 
@@ -57,6 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Leavend/Leavend/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Leavend/output/snake.svg" alt="Snake animation" />
 
 ###
